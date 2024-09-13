@@ -1,4 +1,4 @@
-package edu.carlos.identacao;
+package edu.java_dio.identacao;
 
 // código identado
 public class BoletinEscolar {

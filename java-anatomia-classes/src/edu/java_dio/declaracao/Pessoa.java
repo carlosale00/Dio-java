@@ -1,4 +1,4 @@
-package edu.carlos.declaracao;
+package edu.java_dio.declaracao;
 /**
  * MinhaClasse
  */

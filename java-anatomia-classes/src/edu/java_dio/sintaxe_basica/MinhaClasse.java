@@ -1,4 +1,4 @@
-package edu.carlos.sintaxe_basica;
+package edu.java_dio.sintaxe_basica;
 public class MinhaClasse {
   // corpo da classe
 
