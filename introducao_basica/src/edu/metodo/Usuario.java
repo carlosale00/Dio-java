@@ -1,4 +1,4 @@
-package edu.metodo;
+package src.edu.metodo;
 
 // essa classe vai executar os métodos da classe SmartTv e mostar os valores no consele.
 

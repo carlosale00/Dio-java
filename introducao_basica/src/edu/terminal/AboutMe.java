@@ -1,4 +1,4 @@
-package edu.terminal;
+package src.edu.terminal;
 
 /* 
 <h1> Iteração no terminal </h1>

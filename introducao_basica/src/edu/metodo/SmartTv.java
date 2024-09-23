@@ -5,7 +5,7 @@
 // 3. Nossa tv almentará o volume sempre em +1 ou -1.
 // 4. Nossa tv poderá mudar de canal de 1 em 1 ou definido pelo usuário.
 
-package edu.metodo;
+package src.edu.metodo;
 
 public class SmartTv {
 

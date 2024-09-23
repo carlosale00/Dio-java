@@ -1,4 +1,4 @@
-package edu.terminal;
+package src.edu.terminal;
 
 /* exemplo de programa que tem iteração do usuário 
 * vamos usar uma classe para gerar essa iteraçao do usuário com o programa

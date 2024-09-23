@@ -1,4 +1,4 @@
-package edu.javadoc;
+package src.edu.javadoc;
 
 /**
 * <h1>Calculadora</h1>
