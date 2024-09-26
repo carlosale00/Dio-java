@@ -11,6 +11,7 @@ public class ExemploWhile {
 
         int mesada = 50;
 
+        // a condicional sera executada ate que ela se torne falsa. 
         while (mesada > 0){
             int valorDoce = valorAleatorio();
             if (valorDoce > mesada){
