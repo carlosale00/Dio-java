@@ -1,4 +1,4 @@
-public class SistemaMedida {
+public class ExemploSwitchCase {
 
     public static void main(String[] args) {
 

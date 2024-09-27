@@ -1,6 +1,4 @@
-package condicionais.composto;
-
-public class CaixaEletronico {
+public class ExemploCondicionalComposto {
 
     public static void main(String[] args) {
         double saldo = 25.0;

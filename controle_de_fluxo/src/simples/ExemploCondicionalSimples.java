@@ -1,4 +1,4 @@
-public class CaixaEletronico {
+public class ExemploCondicionalSimples {
 
   public static void main(String[] args) {
     double saldo = 25.0;

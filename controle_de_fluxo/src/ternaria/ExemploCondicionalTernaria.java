@@ -1,4 +1,4 @@
-public class ResultadoEscolar {
+public class ExemploCondicionalTernaria {
 
     // Condição ternaria é um modo de abreviar o algorítmo condicional 
 
